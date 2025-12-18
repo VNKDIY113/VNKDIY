@@ -407,7 +407,7 @@ async function downloadFirmware(firmware) {
             url = './' + url.replace('local://', '');
             log(`📁 Đường dẫn local: ${url}`);
         } else if (url.startsWith('http://') || url.startsWith('https://')) {
-            log(`🌐 Đường dẫn remote: ${url}`);
+            log(``);
             
             // Create fallback URLs for GitHub
             if (url.includes('github.com')) {
@@ -435,7 +435,7 @@ async function downloadFirmware(firmware) {
         for (let i = 0; i < urlsToTry.length; i++) {
             const tryUrl = urlsToTry[i];
             try {
-                log(`🔄 Thử tải từ: ${tryUrl}`);
+                log(``);
                 
                 const response = await fetch(tryUrl, {
                     method: 'GET',
@@ -889,4 +889,5 @@ document.addEventListener('DOMContentLoaded', function() {
             this.style.transform = 'translateY(0)';
         });
     });
+
 });
