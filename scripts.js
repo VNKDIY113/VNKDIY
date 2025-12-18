@@ -835,7 +835,7 @@ if (openOfficialBtn) {
 
 // Initialize
 document.addEventListener('DOMContentLoaded', async () => {
-    log('MINH HOÀNG CƠ ĐIỆN TỬ Flasher đã sẵn sàng');
+    log('VNKDIY Flasher đã sẵn sàng');
     
     // Load firmware database
     await loadFirmwareDatabase();
