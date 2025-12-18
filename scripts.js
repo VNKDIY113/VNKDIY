@@ -812,7 +812,7 @@ if (firmwareList) {
 if (clearLogBtn) {
     clearLogBtn.addEventListener('click', () => {
         if (logEl) {
-            logEl.textContent = 'MINH HOÀNG CƠ ĐIỆN TỬ Flasher - Log đã được xóa.';
+            logEl.textContent = 'VNKDIY Flasher - Log đã được xóa.';
         }
     });
 }
@@ -891,3 +891,4 @@ document.addEventListener('DOMContentLoaded', function() {
     });
 
 });
+
