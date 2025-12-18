@@ -5,7 +5,7 @@
       "name": "ESP32C3_Mini_C3_4MB",
       "filename": "C3_mini.bin",
       "flashAddress": "0x0",
-      "path": "https://raw.githubusercontent.com/NguyenHuaMinhHoang/Firmware_Chatbot_XiaoZhi_AI/main/C3_mini.bin",
+      "path": "https://raw.githubusercontent.com/VNKDIY113/Firmware_Chatbot_XiaoZhi_AI/main/C3_mini.bin",
       "size": "2,950KB",
       "version": "2.0.4",
       "category": "ESP32 C3 mini",
@@ -24,7 +24,7 @@
       "name": "ESP32C3_Mini_C3_4MB_ADD_3_TOOL",
       "filename": "C3_mini_add_3_tool.bin",
       "flashAddress": "0x0",
-      "path": "https://raw.githubusercontent.com/NguyenHuaMinhHoang/Firmware_Chatbot_XiaoZhi_AI/main/c3mini_add3tool.bin",
+      "path": "https://raw.githubusercontent.com/VNKDIY113/Firmware_Chatbot_XiaoZhi_AI/main/c3mini_add3tool.bin",
       "size": "2.75MB",
       "version": "2.0.4",
       "category": "ESP32 C3 mini",
@@ -43,7 +43,7 @@
       "name": "RoBot OTTO",
       "filename": "S3_mini_8MB.bin",
       "flashAddress": "0x0",
-      "path": "https://raw.githubusercontent.com/NguyenHuaMinhHoang/Firmware_Chatbot_XiaoZhi_AI/main/S3otto.bin",
+      "path": "https://raw.githubusercontent.com/VNKDIY113/Firmware_Chatbot_XiaoZhi_AI/main/S3otto.bin",
       "size": "8.0MB",
       "version": "2.0.4",
       "category": "ESP32 S3",
@@ -62,7 +62,7 @@
       "name": "ESP32S3-LCD 1.44 inch TFT ST7735",
       "filename": "S3-128x128_CR7.bin",
       "flashAddress": "0x0",
-      "path": "https://raw.githubusercontent.com/NguyenHuaMinhHoang/Firmware_Chatbot_XiaoZhi_AI/main/S3-128x128_CR7.bin",
+      "path": "https://raw.githubusercontent.com/VNKDIY113/Firmware_Chatbot_XiaoZhi_AI/main/S3-128x128_CR7.bin",
       "size": "8.82MB",
       "version": "2.0.4",
       "category": "ESP32 S3",
@@ -81,7 +81,7 @@
       "name": "ESP32S3-LCD 1.54 inch TFT ST7735",
       "filename": "S3-240x240.bin",
       "flashAddress": "0x0",
-      "path": "https://raw.githubusercontent.com/NguyenHuaMinhHoang/Firmware_Chatbot_XiaoZhi_AI/main/S3-240x240.bin",
+      "path": "https://raw.githubusercontent.com/VNKDIY113/Firmware_Chatbot_XiaoZhi_AI/main/S3-240x240.bin",
       "size": "8.85 MB",
       "version": "2.0.4",
       "category": "ESP32 S3",
@@ -97,4 +97,5 @@
     }
   ]
 }
+
 
